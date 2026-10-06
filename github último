@@ -1,103 +1,103 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Runtime Espanol (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Runtime Espanol (720p)
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",AXN Latin America (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",AXN Latin America (1080p)
 http://138.121.15.230:9002/AXN/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Canal Cine Dios
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Canal Cine Dios
 https://canal.mediaserver.com.co/live/cinedios.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Cine Hispano (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Cine Hispano (1080p)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinehispano.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Cine Familiar (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Cine Familiar (1080p)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinefamiliar.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Cine Premium (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Cine Premium (1080p)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Mega Cine TV (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Mega Cine TV (1080p)
 https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Popcorn Central (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Popcorn Central (1080p)
 https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Xtrema Accion
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Xtrema Accion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Amaga Television (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Amaga Television (720p)
 https://viewhn.com/amagatelevision/sdfUYWKegHKRPpSirG/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Antena Seis TV (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Antena Seis TV (720p) [Geo-blocked]
 https://video1.azulstream.com:8081/antenaseistv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Antena SUR (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Antena SUR (720p)
 https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",ATV Sur (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",ATV Sur (1080p)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/atvsur.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Aut茅ntica Televisi贸n (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Aut茅ntica Televisi贸n (720p) [Not 24/7]
 https://live.obslivestream.com/autenticatvmux/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Azteca Honduras (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Azteca Honduras (720p)
 https://mdstrm.com/live-stream-playlist/65a1d2fd7e7f14355550d570.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Blu Radio (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Blu Radio (720p)
 https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Cajamarca TV (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Cajamarca TV (720p)
 https://live-evg8.tv360.bitel.com.pe/bitel/cajamarcatvSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Canal Capital (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Canal Capital (1080p)
 http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Canal Institucional (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Canal Institucional (720p)
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Canal RCN (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Canal RCN (1080p)
 http://138.121.15.230:9002/RCN/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Caracol TV (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Caracol TV (1080p)
 http://138.121.15.230:9002/CARACOL/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",China Channel (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",China Channel (720p)
 https://v2.tustreaming.cl/chinachannel/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Cinevision Canal 19 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Cinevision Canal 19 (1080p) [Not 24/7]
 https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Citytv Bogota (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Citytv Bogota (1080p)
 http://138.121.15.230:9002/CITY-TV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Ecuavisa Guayaquil (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Ecuavisa Guayaquil (1080p) [Not 24/7]
 https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Las Estrellas Latin America (1080p)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/Canal_Las_Estrellas.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Las Estrellas (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Las Estrellas (1080p)
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Latina (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Latina (1080p)
 https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Latina Podcast (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Latina Podcast (720p)
 https://redirector.rudo.video/hls-video/plus226/latina4/latina4.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Latina TV Internacional (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Latina TV Internacional (720p)
 https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Neox TV (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Neox TV (720p)
 https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Nuestra Tele Internacional (576p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Nuestra Tele Internacional (576p)
 http://181.78.8.199:8000/play/a0a8/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Panamericana TV (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Panamericana TV (1080p)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/panamericana.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",PromarTV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",PromarTV (1080p) [Not 24/7]
 http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Senal Colombia (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Senal Colombia (720p)
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Senal Digital TV [Not 24/7]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Senal Digital TV [Not 24/7]
 https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Sol TV (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Sol TV (720p)
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Suram TV (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Suram TV (1080p)
 https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Tele Antillas (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Tele Antillas (1080p)
 http://45.171.108.253:8888/TELEANTILLAS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Teleamazonas (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Teleamazonas (1080p)
 http://45.224.97.181:9999/Teleamazonas/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Telechiara (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Telechiara (720p)
 http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Telemetro TV [Not 24/7]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Telemetro TV [Not 24/7]
 https://streamunoapp.com:3366/live/telemetrolive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Telemundo Internacional (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Telemundo Internacional (1080p)
 http://138.121.15.230:9002/TELEMUNDO/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Telemundo Al Dia
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Telemundo Al Dia
 https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Telered Television (576p) [Geo-blocked]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Telered Television (576p) [Geo-blocked]
 https://k20.usastreams.com:8081/telered/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Telever (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Telever (1080p) [Not 24/7]
 https://soportedvb.click:3413/live/televerlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Tevesur (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Tevesur (720p)
 https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",TicaVision
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",TicaVision
 https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Venevisi贸n Internacional (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Venevisi贸n Internacional (720p)
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Viva Nicaragua Canal 13 (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="group-title=" |VARIADOS",Viva Nicaragua Canal 13 (720p)
 http://45.171.108.253:8888/VIVA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i1.sndcdn.com/artworks-000022775185-uw4y2s-t500x500.jpg" group-title=" |VARIADOS",Miami TV Latino Activa Tv
 https://183.bozztv.com/giatv/giatv-Activatv/Activatv/chunks.m3u8
@@ -355,11 +355,11 @@ https://k20.usastreams.com:8081/tenerifeplus/index.m3u8
 https://media.streambrothers.com:19360/adxwrggswc/adxwrggswc.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55127788089_e5a1814d5a_t.jpg" group-title=" |VARIADOS",Net Channel Senal 2
 https://media.streambrothers.com:19360/8158/8158.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-logo="https://futbolete.com/wp-content/uploads/2022/03/win__3_0-300x169.jpg" group-title=" | COLOMBIA",CO | Win Sports + 👁️
+#EXTINF:-1 tvg-id="" tvg-logo="https://futbolete.com/wp-content/uploads/2022/03/win__3_0-300x169.jpg" group-title=" | COLOMBIA",CO | Win Sports + 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/639567.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://futbolete.com/wp-content/uploads/2022/03/win__3_0-300x169.jpg" group-title=" | COLOMBIA",CO | Win Sports + 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/639573.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://futbolete.com/wp-content/uploads/2022/03/win__3_0-300x169.jpg" group-title=" | COLOMBIA",CO |  Win Sports + 2mb
+#EXTINF:-1 tvg-id="" tvg-logo="https://futbolete.com/wp-content/uploads/2022/03/win__3_0-300x169.jpg" group-title=" | COLOMBIA",CO | Win Sports + 2m
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/639548.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/winsports.png" group-title=" | COLOMBIA",CO | Win Sports 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/639566.m3u8
@@ -389,7 +389,7 @@ http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/639550.m3u8
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/639581.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/calitv.png" group-title=" | COLOMBIA",CO | CALI TV 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/749747.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/tt/images/channels/mini/starplusco.png?q=65&w=50" group-title=" | COLOMBIA",Cali TV | CO
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/tt/images/channels/mini/starplusco.png?q=65&w=50" group-title=" | COLOMBIA",Cali TV 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/861855.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/m0240zw/d91de5fba5abcb668b41cf5fc6bcecd1.jpg" group-title=" | COLOMBIA",CO | Canal Capital
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/639588.m3u8
@@ -425,11 +425,11 @@ http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/749756.m3u8
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/639569.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/tvagro.png" group-title=" | COLOMBIA",CO | TV AGRO
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/700854.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/tt/images/channels/mini/starplusco.png?q=65&w=50" group-title=" | COLOMBIA",Canal Vision Dorada | CO
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/tt/images/channels/mini/starplusco.png?q=65&w=50" group-title=" | COLOMBIA",Canal Vision Dorada
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/861861.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/tt/images/channels/mini/starplusco.png?q=65&w=50" group-title=" | COLOMBIA",Señal Colombia | CO
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/tt/images/channels/mini/starplusco.png?q=65&w=50" group-title=" | COLOMBIA",Señal Colombia 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/861857.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/tt/images/channels/mini/starplusco.png?q=65&w=50" group-title=" | COLOMBIA",Tele Familia | CO
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/tt/images/channels/mini/starplusco.png?q=65&w=50" group-title=" | COLOMBIA",Tele Familia 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/861875.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/calitv.png" group-title=" | COLOMBIA",CO | CALI TV 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/749751.m3u8
@@ -547,113 +547,113 @@ http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/736169.m3u8
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/736167.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU" group-title=" | CINE PREMIUM",CINE | WARNER FHD
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/736191.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/tt/images/channels/mini/starplusco.png?q=65&w=50" group-title=" | CINE PREMIUM",CINE| CINEMAX ESPANOL USA HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/tt/images/channels/mini/starplusco.png?q=65&w=50" group-title=" | CINE PREMIUM",CINE| CINEMAX ESPAÑOL USA HD
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/867048.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/Animal_Planet-logotipo.png?w=460&h=460&crop=1&ssl=1" group-title="馃摵 | CULTURA",ANIMAL PLANET 岽瘁窗鲁
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/elpoderdelasideas.com/wp-content/uploads/Animal_Planet-logotipo.png?w=460&h=460&crop=1&ssl=1" group-title=" | CULTURA",ANIMAL PLANET
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/736267.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/discoverychannel.png" group-title="馃摵 | CULTURA",DISCOVERY CHANNEL 岽瘁窗鹿
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/discoverychannel.png" group-title=" | CULTURA",DISCOVERY CHANNEL 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/802837.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/discoverychannel.png" group-title="馃摵 | CULTURA",DISCOVERY CHANNEL EN ESPA脩OL 岽瘁窗鹿
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/discoverychannel.png" group-title=" | CULTURA",DISCOVERY CHANNEL EN ESPAñOL 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/802840.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://fanc.tmsimg.com/assets/s99630_ll_h3_aa.png" group-title="馃摵 | CULTURA",DISCOVERY FAMILIA 岽瘁窗鲁
+#EXTINF:-1 tvg-id="" tvg-logo="http://fanc.tmsimg.com/assets/s99630_ll_h3_aa.png" group-title=" | CULTURA",DISCOVERY FAMILIA 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/736263.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://fanc.tmsimg.com/assets/s24424_ll_h3_aa.png" group-title="馃摵 | CULTURA",DISCOVERY H & H 鹿
+#EXTINF:-1 tvg-id="" tvg-logo="http://fanc.tmsimg.com/assets/s24424_ll_h3_aa.png" group-title=" | CULTURA",DISCOVERY H & H 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/736287.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://fanc.tmsimg.com/assets/s24424_ll_h3_aa.png" group-title="馃摵 | CULTURA",DISCOVERY H & H 鲁
+#EXTINF:-1 tvg-id="" tvg-logo="http://fanc.tmsimg.com/assets/s24424_ll_h3_aa.png" group-title=" | CULTURA",DISCOVERY H & H 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/779373.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1024px-InvestigationDiscoveryLogo2020.svg.png" group-title="馃摵 | CULTURA",DISCOVERY ID 虏
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1024px-InvestigationDiscoveryLogo2020.svg.png" group-title=" | CULTURA",DISCOVERY ID 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/791209.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e4fd96a6-d7e6-4dd0-adab-f47131388516/dft2qs8-e78014cb-2eff-44c3-8ddb-af6baed6eebf.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U0ZmQ5NmE2LWQ3ZTYtNGRkMC1hZGFiLWY0NzEzMTM4ODUxNlwvZGZ0MnFzOC1lNzgwMTRjYi0yZWZmLTQ0YzMtOGRkYi1hZjZiYWVkNmVlYmYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.QwdM23VL6hTHzoadlya3RHWPQriMhBpsOup55EL7aBw" group-title="馃摵 | CULTURA",DISCOVERY SCIENCE 鹿
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e4fd96a6-d7e6-4dd0-adab-f47131388516/dft2qs8-e78014cb-2eff-44c3-8ddb-af6baed6eebf.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U0ZmQ5NmE2LWQ3ZTYtNGRkMC1hZGFiLWY0NzEzMTM4ODUxNlwvZGZ0MnFzOC1lNzgwMTRjYi0yZWZmLTQ0YzMtOGRkYi1hZjZiYWVkNmVlYmYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.QwdM23VL6hTHzoadlya3RHWPQriMhBpsOup55EL7aBw" group-title=" | CULTURA",DISCOVERY SCIENCE 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/736311.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/-qoFYClf8Uxw/Vm3aYGocmsI/AAAAAAAAAZE/wCnZe9Hs254/s1600/discovery-turbo-2015.png" group-title="馃摵 | CULTURA",DISCOVERY TURBO 鲁
+#EXTINF:-1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/-qoFYClf8Uxw/Vm3aYGocmsI/AAAAAAAAAZE/wCnZe9Hs254/s1600/discovery-turbo-2015.png" group-title=" | CULTURA",DISCOVERY TURBO 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/787334.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title="馃摵 | CULTURA",EL GOURMET 鲁
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png" group-title=" | CULTURA",EL GOURMET 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/736262.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="馃摵 | CULTURA",GLITZ 鹿
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title=" | CULTURA",GLITZ 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/736272.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="馃摵 | CULTURA",GLITZ 虏
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title=" | CULTURA",GLITZ 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/736298.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hgtv_m.png" group-title="馃摵 | CULTURA",HGTV 虏
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hgtv_m.png" group-title=" | CULTURA",HGTV 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/736268.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.paredro.com/wp-content/uploads/2017/03/lo2.png" group-title="馃摵 | CULTURA",LIFETIME 虏
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.paredro.com/wp-content/uploads/2017/03/lo2.png" group-title=" | CULTURA",LIFETIME 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/736277.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ca/LoveNature.ca.png" group-title="馃摵 | CULTURA",LOVE NATURE 鹿
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ca/LoveNature.ca.png" group-title=" | CULTURA",LOVE NATURE 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/736294.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/tt/images/channels/mini/starplusco.png?q=65&w=50" group-title="馃摵 | CULTURA",NATGEO MUNDO 虏
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/tt/images/channels/mini/starplusco.png?q=65&w=50" group-title=" | CULTURA",NATGEO MUNDO 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/874844.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://Telegram-@estoestv" group-title="馃弳 ESPN DEPORTES",鈻犫枲鈻� ESPN DEPORTES 鈻犫枲鈻�
+#EXTINF:-1 tvg-id="" tvg-logo="http://Telegram-@estoestv" group-title=" ESPN DEPORTES", ESPN DEPORTES
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/892619.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn.png" group-title="馃弳 ESPN DEPORTES",ESPN 1 ARG
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn.png" group-title=" ESPN DEPORTES",ESPN 1 ARG
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/580788.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn.png" group-title="馃弳 ESPN DEPORTES",ESPN 1 COL
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn.png" group-title=" ESPN DEPORTES",ESPN 1 COL
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/580779.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn.png" group-title="馃弳 ESPN DEPORTES",ESPN 1 MX
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn.png" group-title=" ESPN DEPORTES",ESPN 1 MX
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/580781.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn.png" group-title="馃弳 ESPN DEPORTES",ESPN 1 PER
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn.png" group-title=" ESPN DEPORTES",ESPN 1 PER
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/580790.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn.png" group-title="馃弳 ESPN DEPORTES",ESPN 1 LATINO
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn.png" group-title=" ESPN DEPORTES",ESPN 1 LATINO
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/580789.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn.png" group-title="馃弳 ESPN DEPORTES",ESPN 1 USA FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn.png" group-title=" ESPN DEPORTES",ESPN 1 USA FHD
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/623136.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn.png" group-title="馃弳 ESPN DEPORTES",ESPN 1 BR
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn.png" group-title=" ESPN DEPORTES",ESPN 1 BR
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/562117.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title="馃弳 ESPN DEPORTES",ESPN 2 ARG ##
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title=" ESPN DEPORTES",ESPN 2 ARG 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/580778.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title="馃弳 ESPN DEPORTES",ESPN 2 COL //
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title=" ESPN DEPORTES",ESPN 2 COL 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/580784.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title="馃弳 ESPN DEPORTES",ESPN 2 MX
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title=" ESPN DEPORTES",ESPN 2 MX
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/580787.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title="馃弳 ESPN DEPORTES",ESPN 2 CH -
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title=" ESPN DEPORTES",ESPN 2 CH 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/605401.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title="馃弳 ESPN DEPORTES",ESPN 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title=" ESPN DEPORTES",ESPN 2 HD
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/580794.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title="馃弳 ESPN DEPORTES",ESPN 2 USA FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title=" ESPN DEPORTES",ESPN 2 USA FHD
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/623127.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title="馃弳 ESPN DEPORTES",ESPN 2 BR HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title=" ESPN DEPORTES",ESPN 2 BR HD
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/623469.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mx/ESPN3.mx.png" group-title="馃弳 ESPN DEPORTES",ESPN | 3 COL -
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mx/ESPN3.mx.png" group-title=" ESPN DEPORTES",ESPN | 3 COL 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/580797.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn3.png" group-title="馃弳 ESPN DEPORTES",ESPN 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn3.png" group-title=" ESPN DEPORTES",ESPN 3 HD
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/580806.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn3.png" group-title="馃弳 ESPN DEPORTES",ESPN 3 Mx
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn3.png" group-title=" ESPN DEPORTES",ESPN 3 Mx
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/580798.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn3.png" group-title="馃弳 ESPN DEPORTES",ESPN 3 PE *
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn3.png" group-title=" ESPN DEPORTES",ESPN 3 PE *
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/641587.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn3.png" group-title="馃弳 ESPN DEPORTES",ESPN 3 BR
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn3.png" group-title=" ESPN DEPORTES",ESPN 3 BR
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/580793.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn4.png" group-title="馃弳 ESPN DEPORTES",ESPN 4 PE *
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn4.png" group-title=" ESPN DEPORTES",ESPN 4 PE *
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/641577.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn4.png" group-title="馃弳 ESPN DEPORTES",ESPN 4 SUR 庐
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn4.png" group-title=" ESPN DEPORTES",ESPN 4 SUR 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/580800.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn4.png" group-title="馃弳 ESPN DEPORTES",ESPN 4 ARG HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn4.png" group-title=" ESPN DEPORTES",ESPN 4 ARG HD
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/605415.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn4.png" group-title="馃弳 ESPN DEPORTES",ESPN 4 BRASIL
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn4.png" group-title=" ESPN DEPORTES",ESPN 4 BRASIL
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/623470.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="馃弳 ESPN DEPORTES",ESPN PREMIUM ARG OPC # 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title=" ESPN DEPORTES",ESPN PREMIUM ARG OPC # 1
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/605413.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="馃弳 ESPN DEPORTES",ESPN PREMIUM ARG OPC # 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title=" ESPN DEPORTES",ESPN PREMIUM ARG OPC # 2
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/678996.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="馃弳 ESPN DEPORTES",ESPN EXTRA MX
+#EXTINF:-1 tvg-id="" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title=" ESPN DEPORTES",ESPN EXTRA MX
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/580780.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/ESPNNews.us.png" group-title="馃弳 ESPN DEPORTES",ESPN NEWS USA FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/ESPNNews.us.png" group-title=" ESPN DEPORTES",ESPN NEWS USA FHD
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/623161.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2025/05/Fox-One.jpg" group-title="馃弳 FOX SPORTS",FOX ONE 5 岽瘁窗
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2025/05/Fox-One.jpg" group-title=" FOX SPORTS",FOX ONE 5
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/1167870.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2025/05/Fox-One.jpg" group-title="馃弳 FOX SPORTS",FOX ONE 6 岽瘁窗
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2025/05/Fox-One.jpg" group-title=" FOX SPORTS",FOX ONE 6 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/1167871.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2025/05/Fox-One.jpg" group-title="馃弳 FOX SPORTS",FOX ONE 7 岽瘁窗
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2025/05/Fox-One.jpg" group-title=" FOX SPORTS",FOX ONE 7 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/1167874.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2025/05/Fox-One.jpg" group-title="馃弳 FOX SPORTS",FOX ONE 8 岽瘁窗
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2025/05/Fox-One.jpg" group-title=" FOX SPORTS",FOX ONE 8
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/1167876.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ia903108.us.archive.org/35/items/FoxSoccerPlus/fox%20soccer%20plus.png" group-title="馃弳 FOX SPORTS",FOX SOCCER PLUS
+#EXTINF:-1 tvg-id="" tvg-logo="https://ia903108.us.archive.org/35/items/FoxSoccerPlus/fox%20soccer%20plus.png" group-title=" FOX SPORTS",FOX SOCCER PLUS
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/581276.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_deportes-mediano.png" group-title="馃弳 FOX SPORTS",FOX SPORTS 1 ARGENTINA
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_deportes-mediano.png" group-title=" FOX SPORTS",FOX SPORTS 1 ARGENTINA
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/581193.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_deportes-mediano.png" group-title="馃弳 FOX SPORTS",FOX SPORTS 1 USA
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_deportes-mediano.png" group-title=" FOX SPORTS",FOX SPORTS 1 USA
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/581207.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_deportes-mediano.png" group-title="馃弳 FOX SPORTS",FOX SPORTS 2 ARGENTINA
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_deportes-mediano.png" group-title=" FOX SPORTS",FOX SPORTS 2 ARGENTINA
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/581197.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_deportes-mediano.png" group-title="馃弳 FOX SPORTS",FOX SPORTS 2 COLOMBIA
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_deportes-mediano.png" group-title=" FOX SPORTS",FOX SPORTS 2 COLOMBIA
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/581199.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://fanc.tmsimg.com/assets/s106781_ll_h3_ab.png" group-title="馃弳 FOX SPORTS",FOX SPORTS PREMIUM
+#EXTINF:-1 tvg-id="" tvg-logo="http://fanc.tmsimg.com/assets/s106781_ll_h3_ab.png" group-title=" FOX SPORTS",FOX SPORTS PREMIUM
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/602350.m3u8
