@@ -99,11 +99,11 @@ https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Viva Nicaragua Canal 13 (720p)
 http://45.171.108.253:8888/VIVA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i1.sndcdn.com/artworks-000022775185-uw4y2s-t500x500.jpg" group-title=" |VARIADOS",Miami TV LatinoActiva Tv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i1.sndcdn.com/artworks-000022775185-uw4y2s-t500x500.jpg" group-title=" |VARIADOS",Miami TV Latino Activa Tv
 https://183.bozztv.com/giatv/giatv-Activatv/Activatv/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2TFLH5l1LOsA9-E5nShJ_lTa62A0P3CqW3uIYGhSkcRQuyEdxAxtbueTQ&s=10" group-title=" |VARIADOS",TVS X
 https://live20.bozztv.com/akamaissh101/ssh101/tevesporteve/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAqSz5crRN6J58Tlh-ZY3OGTeTqJUS_cgTfW2VjA7Gew&s=10" group-title="|VARIADOS",Wow TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAqSz5crRN6J58Tlh-ZY3OGTeTqJUS_cgTfW2VjA7Gew&s=10" group-title=" |VARIADOS",Wow TV
 https://live20.bozztv.com/giatvplayout7/giatv-209186/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzDJ0DBVM-IvigDtUGF5VFWCDIs8LD_BA6yELhnMFdDg&s=10" group-title=" |VARIADOS",Sol TV
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
@@ -153,7 +153,7 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55118032215_6b676d315d_m.jpg" group-title=" |VARIADOS",TeleSur venezuela Full
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55117977628_c0deb5e7bf_t.jpg" group-title=" |VARIADOS",Anzo谩tegui TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55117977628_c0deb5e7bf_t.jpg" group-title=" |VARIADOS",Anzoategui TV
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55118213649_f637e292b3_t.jpg" group-title=" |VARIADOS",Globovision (720)
 https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8
@@ -169,7 +169,7 @@ https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55117876273_70ec08db4e_m.jpg" group-title=" |VARIADOS",EWTN INTERNACIONAL
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DgT2Xzcch69mSpO1EGvdpsZuAc-Xk6e_kQ&s" group-title=" |VARIADOS",DW Espa帽ol (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DgT2Xzcch69mSpO1EGvdpsZuAc-Xk6e_kQ&s" group-title=" |VARIADOS",DW Español (720p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55126780412_eaef1e9421_t.jpg" group-title=" |VARIADOS",Cable Noticias web
 https://app-videoplayer-proxy-prod-eu-001.azurewebsites.net/proxy/live/ngrp:cable09061970_all/playlist.m3u8
@@ -225,7 +225,7 @@ https://video1.azulstream.com:8081/antenaseistv/index.m3u8
 https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55126099682_9ef9de9aea_t.jpg" group-title=" |VARIADOS",Atacama TV
 https://v2.tustreaming.cl/atacamatv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55117792186_b53a708d0c_t.jpg" group-title=" |VARIADOS",Aut茅ntica Televisi贸n (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55117792186_b53a708d0c_t.jpg" group-title=" |VARIADOS",Autentica Television (720p)
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55117997568_11775eda24_t.jpg" group-title=" |VARIADOS",Bajo Techo TV (1080p)
 https://fox.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8
@@ -235,11 +235,11 @@ https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
 https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55117873216_93797e9587_t.jpg" group-title=" |VARIADOS",Canal 1 (720p)
 https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55118086728_51d5cdac7d_t.jpg" group-title=" |VARIADOS",Canal 2 Alpavisi贸n Neiva (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55118086728_51d5cdac7d_t.jpg" group-title=" |VARIADOS",Canal 2 Alpavision Neiva (720p)
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55117889451_f7da1a51a6_t.jpg" group-title=" |VARIADOS",Canal 21 TV (720p)
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55118290265_f69580df35_t.jpg" group-title=" |VARIADOS",Canal M谩s Televisi贸n (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55118290265_f69580df35_t.jpg" group-title=" |VARIADOS",Canal Mas Television (720p)
 https://movil.ejeserver.com/live/teledoradahd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55118296560_23a8efded8_t.jpg" group-title=" |VARIADOS",CDM Internacional
 https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8
@@ -267,7 +267,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-e
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55118246879_d0b2ff27f1_t.jpg" group-title=" |VARIADOS",Telesur Costarica
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55118252519_513894fbcb_t.jpg" group-title=" |VARIADOS",RT Espa帽ol
+#EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55118252519_513894fbcb_t.jpg" group-title=" |VARIADOS",RT Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55118194213_3c9ef1304f_t.jpg" group-title=" |VARIADOS",MyTime
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
@@ -287,7 +287,7 @@ https://movil.ejeserver.com/live/canal8tv.m3u8
 https://k20.usastreams.com:8081/telered/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55118035761_77030f240c_t.jpg" group-title=" |VARIADOS",Tevex TV
 https://v2.tustreaming.cl/tevex/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55118042386_e74c242f2f_t.jpg" group-title=" |VARIADOS",France 24 Espa帽ol
+#EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55118042386_e74c242f2f_t.jpg" group-title=" |VARIADOS",France 24 Español
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_500.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55118437725_6f9f97b5c7_t.jpg" group-title=" |VARIADOS",Estremadura TV
 https://d2ymuyhevki1a1.cloudfront.net/wct-ddd2992e-86fc-4611-a491-7f392259e9ba/continuous/9be76611-d2cd-474d-bf19-ef702ba31b02/1080p_5M_25fps_aac_128k.m3u8
@@ -297,7 +297,7 @@ https://5f71743aa95e4.streamlock.net:1936/Condavision/endirecto/chunklist_w43501
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55118067431_ccbd371369_t.jpg" group-title=" |VARIADOS",TeleSafor
 http://video.telesafor.com/hls/video_low.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55118069876_66cff849ff_t.jpg" group-title=" |VARIADOS",Alcarria TV Espa帽a
+#EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55118069876_66cff849ff_t.jpg" group-title=" |VARIADOS",Alcarria TV España
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55118337584_7a6c4e7108_t.jpg" group-title=" |VARIADOS",Teleritmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
@@ -345,9 +345,9 @@ https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55127265694_39bec9170e_t.jpg" group-title=" |VARIADOS",Canal 24 Horas RTVE
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55127023241_61a8448766_t.jpg" group-title=" |VARIADOS",Tastemade en Espa帽ol
+#EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55127023241_61a8448766_t.jpg" group-title=" |VARIADOS",Tastemade en Español
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55127268038_5ea26b0312_t.jpg" group-title=" |VARIADOS",Canal M谩laga
+#EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55127268038_5ea26b0312_t.jpg" group-title=" |VARIADOS",Canal Malaga
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55127124771_012607a269_t.jpg" group-title=" |VARIADOS",Tenerife Plus+ TV
 https://k20.usastreams.com:8081/tenerifeplus/index.m3u8
