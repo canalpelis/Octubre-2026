@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Q_P-fgPCCc8941XK2utzXmwMiMgF7kVV9ByFFKy1dA&s=10" group-title=" group-title=" |VARIADOS",Runtime Espanol (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyMfvYdR1d70d0OTWK2Qidh0IarDqj-71JSpSWU6OjJA&s" group-title=" group-title=" |VARIADOS",Runtime Espanol (720p)
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title=" group-title=" |VARIADOS",AXN Latin America (1080p)
 http://138.121.15.230:9002/AXN/index.m3u8
