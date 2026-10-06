@@ -351,9 +351,6 @@ https://media.streambrothers.com:19360/adxwrggswc/adxwrggswc.m3u8?PlaylistM3UCL
 https://media.streambrothers.com:19360/8158/8158.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAqSz5crRN6J58Tlh-ZY3OGTeTqJUS_cgTfW2VjA7Gew&s=10" group-title=" |VARIADOS",Wow TV
 https://live20.bozztv.com/giatvplayout7/giatv-209186/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55118449365_268df8cc3e_t.jpg" group-title=" |VARIADOS",La 1 Catalunya
-https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_720.m3u8
-
 
 
 
@@ -584,79 +581,79 @@ http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/736277.m3u8
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/736294.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/tt/images/channels/mini/starplusco.png?q=65&w=50" group-title=" | CULTURA",NATGEO MUNDO 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/874844.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://Telegram-@estoestv" group-title=" ESPN DEPORTES", ESPN DEPORTES
+#EXTINF:-1 tvg-id="" tvg-logo="http://Telegram-@estoestv" group-title="| ESPN DEPORTES", ESPN DEPORTES
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/892619.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn.png" group-title=" ESPN DEPORTES",ESPN 1 ARG
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn.png" group-title=" | ESPN DEPORTES",ESPN 1 ARG
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/580788.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn.png" group-title=" ESPN DEPORTES",ESPN 1 COL
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn.png" group-title=" | ESPN DEPORTES",ESPN 1 COL
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/580779.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn.png" group-title=" ESPN DEPORTES",ESPN 1 MX
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn.png" group-title=" | ESPN DEPORTES",ESPN 1 MX
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/580781.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn.png" group-title=" ESPN DEPORTES",ESPN 1 PER
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn.png" group-title=" | ESPN DEPORTES",ESPN 1 PER
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/580790.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn.png" group-title=" ESPN DEPORTES",ESPN 1 LATINO
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn.png" group-title=" | ESPN DEPORTES",ESPN 1 LATINO
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/580789.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn.png" group-title=" ESPN DEPORTES",ESPN 1 USA FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn.png" group-title=" | ESPN DEPORTES",ESPN 1 USA FHD
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/623136.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn.png" group-title=" ESPN DEPORTES",ESPN 1 BR
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn.png" group-title=" | ESPN DEPORTES",ESPN 1 BR
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/562117.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title=" ESPN DEPORTES",ESPN 2 ARG 
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title=" | ESPN DEPORTES",ESPN 2 ARG 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/580778.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title=" ESPN DEPORTES",ESPN 2 COL 
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title=" | ESPN DEPORTES",ESPN 2 COL 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/580784.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title=" ESPN DEPORTES",ESPN 2 MX
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title=" | ESPN DEPORTES",ESPN 2 MX
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/580787.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title=" ESPN DEPORTES",ESPN 2 CH 
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title=" | ESPN DEPORTES",ESPN 2 CH 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/605401.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title=" ESPN DEPORTES",ESPN 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title=" | ESPN DEPORTES",ESPN 2 HD
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/580794.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title=" ESPN DEPORTES",ESPN 2 USA FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title=" | ESPN DEPORTES",ESPN 2 USA FHD
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/623127.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title=" ESPN DEPORTES",ESPN 2 BR HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title=" | ESPN DEPORTES",ESPN 2 BR HD
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/623469.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mx/ESPN3.mx.png" group-title=" ESPN DEPORTES",ESPN | 3 COL 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mx/ESPN3.mx.png" group-title=" | ESPN DEPORTES",ESPN | 3 COL 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/580797.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn3.png" group-title=" ESPN DEPORTES",ESPN 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn3.png" group-title=" | ESPN DEPORTES",ESPN 3 HD
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/580806.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn3.png" group-title=" ESPN DEPORTES",ESPN 3 Mx
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn3.png" group-title=" | ESPN DEPORTES",ESPN 3 Mx
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/580798.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn3.png" group-title=" ESPN DEPORTES",ESPN 3 PE *
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn3.png" group-title=" | ESPN DEPORTES",ESPN 3 PE *
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/641587.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn3.png" group-title=" ESPN DEPORTES",ESPN 3 BR
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn3.png" group-title=" | ESPN DEPORTES",ESPN 3 BR
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/580793.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn4.png" group-title=" ESPN DEPORTES",ESPN 4 PE *
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn4.png" group-title=" | ESPN DEPORTES",ESPN 4 PE *
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/641577.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn4.png" group-title=" ESPN DEPORTES",ESPN 4 SUR 
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn4.png" group-title=" | ESPN DEPORTES",ESPN 4 SUR 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/580800.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn4.png" group-title=" ESPN DEPORTES",ESPN 4 ARG HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn4.png" group-title=" | ESPN DEPORTES",ESPN 4 ARG HD
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/605415.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn4.png" group-title=" ESPN DEPORTES",ESPN 4 BRASIL
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn4.png" group-title=" | ESPN DEPORTES",ESPN 4 BRASIL
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/623470.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title=" ESPN DEPORTES",ESPN PREMIUM ARG OPC # 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title=" | ESPN DEPORTES",ESPN PREMIUM ARG OPC # 1
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/605413.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title=" ESPN DEPORTES",ESPN PREMIUM ARG OPC # 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title=" | ESPN DEPORTES",ESPN PREMIUM ARG OPC # 2
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/678996.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title=" ESPN DEPORTES",ESPN EXTRA MX
+#EXTINF:-1 tvg-id="" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title=" | ESPN DEPORTES",ESPN EXTRA MX
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/580780.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/ESPNNews.us.png" group-title=" ESPN DEPORTES",ESPN NEWS USA FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/ESPNNews.us.png" group-title=" | ESPN DEPORTES",ESPN NEWS USA FHD
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/623161.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2025/05/Fox-One.jpg" group-title=" FOX SPORTS",FOX ONE 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2025/05/Fox-One.jpg" group-title=" | FOX SPORTS",FOX ONE 5
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/1167870.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2025/05/Fox-One.jpg" group-title=" FOX SPORTS",FOX ONE 6 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2025/05/Fox-One.jpg" group-title=" | FOX SPORTS",FOX ONE 6 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/1167871.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2025/05/Fox-One.jpg" group-title=" FOX SPORTS",FOX ONE 7 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2025/05/Fox-One.jpg" group-title=" | FOX SPORTS",FOX ONE 7 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/1167874.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2025/05/Fox-One.jpg" group-title=" FOX SPORTS",FOX ONE 8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.panoramaaudiovisual.com/wp-content/uploads/2025/05/Fox-One.jpg" group-title=" | FOX SPORTS",FOX ONE 8
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/1167876.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://ia903108.us.archive.org/35/items/FoxSoccerPlus/fox%20soccer%20plus.png" group-title=" FOX SPORTS",FOX SOCCER PLUS
+#EXTINF:-1 tvg-id="" tvg-logo="https://ia903108.us.archive.org/35/items/FoxSoccerPlus/fox%20soccer%20plus.png" group-title=" | FOX SPORTS",FOX SOCCER PLUS
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/581276.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_deportes-mediano.png" group-title=" FOX SPORTS",FOX SPORTS 1 ARGENTINA
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_deportes-mediano.png" group-title=" | FOX SPORTS",FOX SPORTS 1 ARGENTINA
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/581193.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_deportes-mediano.png" group-title=" FOX SPORTS",FOX SPORTS 1 USA
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_deportes-mediano.png" group-title=" | FOX SPORTS",FOX SPORTS 1 USA
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/581207.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_deportes-mediano.png" group-title=" FOX SPORTS",FOX SPORTS 2 ARGENTINA
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_deportes-mediano.png" group-title=" | FOX SPORTS",FOX SPORTS 2 ARGENTINA
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/581197.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_deportes-mediano.png" group-title=" FOX SPORTS",FOX SPORTS 2 COLOMBIA
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_deportes-mediano.png" group-title=" | FOX SPORTS",FOX SPORTS 2 COLOMBIA
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/581199.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://fanc.tmsimg.com/assets/s106781_ll_h3_ab.png" group-title=" FOX SPORTS",FOX SPORTS PREMIUM
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/602350.m3u8
