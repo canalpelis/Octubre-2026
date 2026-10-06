@@ -343,7 +343,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55127268038_5ea26b0312_t.jpg" group-title=" |VARIADOS",Canal Malaga
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55127124771_012607a269_t.jpg" group-title=" |VARIADOS",Tenerife Plus+ TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55127124771_012607a269_t.jpg" group-title=" |VARIADOS 🌎",Tenerife Plus+ TV
 https://k20.usastreams.com:8081/tenerifeplus/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://live.staticflickr.com/65535/55126679862_c3f5e41944_t.jpg" group-title=" |VARIADOS",Rewind Music Channe
 https://media.streambrothers.com:19360/adxwrggswc/adxwrggswc.m3u8?PlaylistM3UCL
@@ -431,7 +431,7 @@ http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/861861.m3u8
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/861857.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/tt/images/channels/mini/starplusco.png?q=65&w=50" group-title=" | COLOMBIA",Tele Familia 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/861875.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/calitv.png" group-title=" | COLOMBIA",CO | CALI TV 
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/calitv.png" group-title=" | COLOMBIA 🇨🇴",CO | CALI TV 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/749751.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/ae.png" group-title=" | CINE PREMIUM",CINE | A&E 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/736227.m3u8
@@ -539,7 +539,7 @@ http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/736183.m3u8
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/736175.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS412_DLemKjbNR286Bqh-5--md7yWlo7F9sw&usqp=CAU" group-title=" | CINE PREMIUM",CINE | UNIVERSAL CHANNEL SD
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/736197.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png" group-title=" | CINE PREMIUM",CINE | UNIVERSAL CINEMA
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.universalplus.com/assets/logo_cinema_hero.png" group-title=" | CINE PREMIUM 📽️",CINE | UNIVERSAL CINEMA
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/736182.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" group-title=" | CINE PREMIUM",CINE | UNIVERSAL PREMIER HD
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/736169.m3u8
@@ -577,7 +577,7 @@ http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/736298.m3u8
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/736268.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.paredro.com/wp-content/uploads/2017/03/lo2.png" group-title=" | CULTURA",LIFETIME 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/736277.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ca/LoveNature.ca.png" group-title=" | CULTURA",LOVE NATURE 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ca/LoveNature.ca.png" group-title=" | CULTURA 🌐",LOVE NATURE 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/736294.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.livesoccertv.com/tt/images/channels/mini/starplusco.png?q=65&w=50" group-title=" | CULTURA",NATGEO MUNDO 
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/874844.m3u8
@@ -619,7 +619,7 @@ http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/580806.m3u8
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/580798.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn3.png" group-title=" | ESPN DEPORTES",ESPN 3 PE *
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/641587.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn3.png" group-title=" | ESPN DEPORTES",ESPN 3 BR
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn3.png" group-title=" | ESPN DEPORTES ⚽",ESPN 3 BR
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/580793.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/espn4.png" group-title=" | ESPN DEPORTES",ESPN 4 PE *
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/641577.m3u8
